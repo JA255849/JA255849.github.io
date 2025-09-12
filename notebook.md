@@ -57,10 +57,10 @@
 | List     | A collection of values in a specific order. | `List<String> names = [];` | Together |  |
 | Null     | A special value that means “nothing.” | `String? name = null;` | Fill in later |  |
 | Function     | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | Jump in a game |  |
-| Parameter     | The information passed into a function to change how it works. | `greet(String name)` |  |  |
-| Return     | The result a function gives back. | `return total;` |  |  |
-| Scope     | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
-| Class     | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
+| Parameter     | The information passed into a function to change how it works. | `greet(String name)` | Signing in |  |
+| Return     | The result a function gives back. | `return total;` | Giving back |  |
+| Scope     | Where a variable or function can be used. | (No set syntax — concept-based) | Only use at one place |  |
+| Class     | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | Driving class |  |
 | Object     | A specific version of a class. | `Dog myDog = Dog();` |  |  |
 | Property     | A variable that belongs to a class/object. | `String name;` |  |  |
 | Method     | A function that belongs to a class. | `void bark() {}` |  |  |
