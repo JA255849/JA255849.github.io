@@ -81,6 +81,8 @@
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
+| Algorithms | Define step by step processes to follow when completing a task or solving a problem | no syntax | Make a grilled cheese | Verify user |
+| Sequencing | Define an order for when steps in an algorithm are completed | Follows 1, 2, 3 | which step comes first in making a grilled cheese | Get bread, add butter, add cheese |
 | veriable     | A named container used to store a value that may change. | `var x = 5;` | Goals in soccer  |  |
 | Constant    | A fixed value that cannot change once set. | `const PI = 3.14;` | Logo  |  |
 | Data Type     | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | Score Bored |  |
